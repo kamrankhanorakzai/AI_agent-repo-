@@ -23,3 +23,6 @@ dotenv
 # Machine Learning Utilities
 numpy
 scikit-learn
+
+# lagchain-graphs
+grandalf

@@ -1,0 +1,52 @@
+{
+  "topics": [
+    {
+      "title": "The Rise of Electric Supercars",
+      "scenes": [
+        {
+          "prompt": "A sleek, futuristic electric supercar with glowing LED accents accelerating silently on a winding coastal highway at sunset, leaving a subtle trail of light behind."
+        },
+        {
+          "prompt": "Close-up of the electric supercar's dashboard showing real-time power distribution, battery levels, and a holographic navigation display in a dark, minimalist cockpit."
+        },
+        {
+          "prompt": "The electric supercar parked at a high-tech charging station with lightning-fast chargers, surrounded by other exotic EVs, under neon city lights at night."
+        },
+        {
+          "prompt": "Dynamic shot from inside the electric supercar as it accelerates from 0 to 60 mph in under 2 seconds, capturing the driver's reaction and the blurred environment outside."
+        },
+        {
+          "prompt": "Aerial drone view of the electric supercar performing tight, precise turns on a racetrack, highlighting its aerodynamic design and near-silent operation."
+        }
+      ]
+    },
+    {
+      "title": "Off-Road Electric Adventure Vehicles",
+      "scenes": [
+        {
+          "prompt": "A rugged electric off-road vehicle with massive tires and a roof rack, fording through a muddy river in a dense forest, water splashing around its wheel wells."
+        },
+        {
+          "prompt": "The electric adventure vehicle parked at a remote mountain campsite at dusk, its built-in power outlets charging drones and camping gear, with aurora borealis in the sky."
+        },
+        {
+          "prompt": "Slow-motion shot of the vehicle climbing a steep, rocky incline effortlessly, showcasing its torque vectoring and adaptive suspension in a desert canyon."
+        },
+        {
+          "prompt": "Interior view of the vehicle's cabin with waterproof, washable seats and a large touchscreen displaying topographic maps and battery range to the nearest charging point."
+        },
+        {
+          "prompt": "The electric off-roader driving along a narrow cliffside trail with panoramic ocean views, its electric motors providing precise control on the edge."
+        }
+      ]
+    },
+    {
+      "title": "Hybrid Hypercar Technology & Design",
+      "scenes": [
+        {
+          "prompt": "A hybrid hypercar with active aerodynamics—massive rear wing and front"
+        }
+      ]
+    }
+  ]
+}
